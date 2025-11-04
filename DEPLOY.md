@@ -161,7 +161,10 @@ MemoryError
 ### Streamlit Cloud
 - ✅ **무료 플랜**: 완전 무료!
 - ✅ 3개 앱까지 배포 가능
-- ✅ 프라이빗 repository도 가능
+- ✅ **Private repository도 무료!** ⭐
+- ✅ Public repository도 무료!
+
+**추천:** Private으로 하는 것이 더 안전합니다!
 
 ### OpenAI API
 - 💵 사용량에 따라 과금
