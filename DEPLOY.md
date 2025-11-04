@@ -23,8 +23,14 @@
 2. New Repository 생성
    - Name: crop-identifier
    - Description: 농작물 AI 식별기
+   - ⭐ Keep this code private 체크 (추천!)
 3. Publish repository 클릭
 ```
+
+**💡 Private Repository 추천!**
+- ✅ Streamlit Cloud 무료 배포 가능
+- ✅ 코드가 공개되지 않음
+- ✅ API 키 등 보안에 더 안전
 
 #### 방법 B: Git 명령어 사용
 ```bash
@@ -112,13 +118,19 @@ Streamlit Cloud Pro 플랜 (유료)에서 가능:
 - `your-domain.com`으로 연결 가능
 
 ### 리소스 제한
-- **무료 플랜**:
+- **무료 플랜 (Community Cloud)**:
   - CPU: 1 core
   - RAM: 800MB
   - 동시 접속: 제한 없음
   - 앱 개수: 3개까지
+  - **✅ Private Repository 지원!**
 
 - **충분합니다!** 이 앱은 가벼워서 무료 플랜으로 충분히 작동합니다.
+
+### Private Repository 배포
+- ✅ **무료로 가능합니다!**
+- GitHub 연결 시 private repo도 선택 가능
+- 배포 방법은 public과 동일
 
 ---
 
