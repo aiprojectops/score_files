@@ -1,0 +1,28 @@
+# Streamlit 앱 설정
+
+[theme]
+# 메인 색상 (농작물 느낌의 초록색)
+primaryColor = "#69b34c"
+
+# 배경색
+backgroundColor = "#ffffff"
+
+# 보조 배경색
+secondaryBackgroundColor = "#f0f2f6"
+
+# 텍스트 색상
+textColor = "#262730"
+
+# 폰트
+font = "sans serif"
+
+[server]
+# 헤더 메시지 비활성화
+headless = true
+
+# 파일 감지 비활성화 (성능 향상)
+runOnSave = false
+
+# 최대 업로드 크기 (MB)
+maxUploadSize = 10
+

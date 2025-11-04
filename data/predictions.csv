@@ -1,0 +1,7 @@
+﻿filename,true_label,pred_label,pred_confidence
+img_1.jpg,블루베리,블루베리,0.95
+img_2.jpg,블루베리,블루베리,0.95
+img_3.jpg,고추,고추,0.95
+img_4.jpg,고추,고추,0.95
+img_5.jpg,감,감,0.95
+img_6.jpg,감,감,0.87

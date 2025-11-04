@@ -1,0 +1,14 @@
+# 농작물 이미지 분류 프로젝트 필수 패키지
+
+# OpenAI API 클라이언트 (Vision API 사용)
+openai>=1.12.0
+
+# 환경 변수 관리
+python-dotenv>=1.0.0
+
+# 웹앱 (Streamlit)
+streamlit>=1.28.0
+
+# 이미지 처리
+Pillow>=10.0.0
+
