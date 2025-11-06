@@ -230,7 +230,6 @@ def main():
         st.markdown("---")
         st.markdown("## ℹ️ 정보")
         st.markdown("""
-        - **모델**: GPT-4o-mini
         - **지원 형식**: JPG, PNG
         - **분석 항목**: 
           - 농작물 이름
